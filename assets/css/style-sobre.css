@@ -1,0 +1,20 @@
+/* Variáveis */
+:root {
+    --branco: #ffffff;
+    --cinza: #808080;
+    --fonte_padrao: ;
+    --preto: #000000;
+}
+
+/* Versão desktop */
+
+
+/* Versão mobile */
+@media (max-width: 768px) {
+
+}
+
+/* Versão tablet */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}

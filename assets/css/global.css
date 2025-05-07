@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Variáveis */
+:root {
+    --branco: #ffffff;
+    --cinza: #808080;
+    --fonte-padrao: ;
+    --preto: #000000;
+}
+
+/* Versão desktop */
+.navbar {
+    position: fixed;
+    top: 0;
+    transition: top 0.4s ease;
+    width: 100%;
+    z-index: 1;
+}
+
+/* Versão mobile */
+@media (max-width: 768px) {
+
+}
+
+/* Versão tablet */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
