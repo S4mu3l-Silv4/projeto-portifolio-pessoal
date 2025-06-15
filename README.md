@@ -1,6 +1,6 @@
 # Projeto portifólio pessoal:
 
-  Este site foi criado como um projeto pessoal, objetivando praticar e demonstrar as minhas habilidades em desenvolvimento web.
+  Este site foi criado por https://github.com/S4mu3l-Silv4 como um projeto pessoal, objetivando praticar e demonstrar as minhas          habilidades em programação front-end.
   <br>
   <br>
 ## Site no ar:
