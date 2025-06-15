@@ -1,9 +1,9 @@
 # Projeto portifólio pessoal:
 
-  Site criado por https://github.com/S4mu3l-Silv4 como forma de projeto pessoal.
+  Este site foi criado como um projeto pessoal, objetivando praticar e demonstrar as minhas habilidades em desenvolvimento web.
   <br>
   <br>
-## Demonstração:
+## Site no ar:
 
   https://s4mu3l-silv4.github.io/projeto-portifolio-pessoal/home.html
   <br>
