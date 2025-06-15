@@ -1,6 +1,6 @@
 # Projeto portifólio pessoal:
 
-  Uma breve descrição do que o projeto faz e para que serve.
+  Site criado por https://github.com/S4mu3l-Silv4.
 
 
 ## Demonstração:
